@@ -1,12 +1,23 @@
 ### Olá eu sou o Guilherme Bonfim👋
 
+Sou estudante em Análise e Desenvolvimento de Sistemas.
+Estou buscando oportunidades e documentarei minha evolução como desenvolvedor!
+Espero poder contar com sua colaboração e também poder colaborar através do meu conhecimento!
+
+## 😁Sobre mim:
+
+ Profissão: Estudante. <br>
+ Curso técnico: Automação Industrial<br>
+ Graduação: Segundo semestre em Análise e Desenvolvimento de Sistemas<br>
+ Hobbies: Música, jogos e esportes.
+
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://glbonfim21@gmail.com)
-[![linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonfimngks)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonfimngks)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_bonfims/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/5519983242581)
 
 
-![Bonfim GitHub stats](https://github-readme-stats.vercel.app/api?username=Glbonfim-Dev&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -22,3 +33,10 @@
 "Explorando o infinito universo da tecnologia e programação, um código de cada vez."
 
 Estou procurando um novo cargo e agradeceria muito seu apoio. Quero muito trazer meus conhecimentos, competências e experiência para um novo desafio. Sinto que ainda tenho muito o que aprender mas vejo minha ambição e determinação serem gigantes, ao ponto de não desistir.
+
+
+
+
+
+
+
