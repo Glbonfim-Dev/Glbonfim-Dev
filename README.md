@@ -1,14 +1,14 @@
 ### Olá eu sou o Guilherme Bonfim👋
 
-Sou estudante em Análise e Desenvolvimento de Sistemas.
+Sou estudante em Analista de Dados.
 Estou buscando oportunidades e documentarei minha evolução como desenvolvedor!
 Espero poder contar com sua colaboração e também poder colaborar através do meu conhecimento!
 
 ## 😁Sobre mim:
 
  Profissão: Estudante. <br>
- Curso técnico: Automação Industrial<br>
- Graduação: Segundo semestre em Análise e Desenvolvimento de Sistemas<br>
+ Curso técnico: Análise e Desenvolvimento de Sistemas (ADS) <br>
+ Graduação: Cursos profissionalizantes em Analise de dados <br>
  Hobbies: Música, jogos e esportes.
 
 
