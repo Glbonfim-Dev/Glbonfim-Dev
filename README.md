@@ -1,21 +1,30 @@
 ### Olá eu sou o Guilherme Bonfim👋
 
-Sou estudante em Analista de Dados.
-Estou buscando oportunidades e documentarei minha evolução como desenvolvedor!
-Espero poder contar com sua colaboração e também poder colaborar através do meu conhecimento!
+Sou profissional de Planejamento e Controle de Produção (PCP) com foco em análise de dados, indicadores, Power BI, Excel e melhoria de processos industriais.
 
-## 😁Sobre mim:
+Atualmente, atuo com acompanhamento de cronogramas de produção, análise de capacidade produtiva, relatórios gerenciais, dashboards e apoio à tomada de decisão. Também estou em formação em Análise e Desenvolvimento de Sistemas, unindo minha experiência na indústria com tecnologia, dados e automação.
 
- Profissão: Estudante. <br>
- Curso técnico: Análise e Desenvolvimento de Sistemas (ADS) <br>
- Graduação: Cursos profissionalizantes em Analise de dados <br>
- Hobbies: Música, jogos e esportes.
+## 🚀Sobre mim:
 
+📍 Hortolândia - SP, Brasil <br>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIP <br>
+🏭 Experiência em PCP, produção, processos industriais e melhoria contínua <br>
+📊 Foco em Power BI, Excel, DAX, Power Query e dashboards <br>
+⚙️ Conhecimentos em ERP, SAP, SigmaNEST e automação industrial <br>
+💻 Estudando desenvolvimento, análise de dados e soluções para otimização de processos
+    
+📌 Áreas de interesse <br>
+Análise de Dados aplicada à indústria <br>
+Dashboards gerenciais e indicadores de produção <br>
+Planejamento e controle de produção <br>
+Automação de relatórios <br>
+Melhoria contínua de processos <br>
+Desenvolvimento de soluções simples para produtividade
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://glbonfim21@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonfimngks)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_bonfims/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/5519983242581)
+
 
 
 
@@ -30,9 +39,8 @@ Espero poder contar com sua colaboração e também poder colaborar através do 
 <div><br/>
 
 
-"Explorando o infinito universo da tecnologia e programação, um código de cada vez."
+“Transformando dados, processos e tecnologia em decisões mais inteligentes.”
 
-Estou procurando um novo cargo e agradeceria muito seu apoio. Quero muito trazer meus conhecimentos, competências e experiência para um novo desafio. Sinto que ainda tenho muito o que aprender mas vejo minha ambição e determinação serem gigantes, ao ponto de não desistir.
 
 
 
